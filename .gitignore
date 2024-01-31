@@ -1,0 +1,17 @@
+dataset/input/test/neg/*.txt
+dataset/input/test/pos/*.txt
+dataset/input/train/neg/*.txt
+dataset/input/train/pos/*.txt
+dataset/input/train/unsup/*.txt
+
+dataset/outputs/test/neg/*.json
+dataset/outputs/test/pos/*.json
+dataset/outputs/train/neg/*.json
+dataset/outputs/train/pos/*.json
+
+dataset/outputsGPT/test/neg/*.json
+dataset/outputsGPT/test/pos/*.json
+dataset/outputsGPT/train/neg/*.json
+dataset/outputsGPT/train/pos/*.json
+
+model/*.gguf
