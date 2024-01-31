@@ -17,4 +17,3 @@ dataset/outputsGPT/train/pos/*.json
 model/*.gguf
 
 Senhas.txt
-./Senhas.txt
